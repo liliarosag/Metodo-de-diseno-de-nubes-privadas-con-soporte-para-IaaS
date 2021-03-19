@@ -55,4 +55,5 @@ La ejecución del método de diseño debe ser secuencial como indica el esquema 
     * [Documentos complementarios](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%202/Subfase%202.1%20Gestor/Documentos%20complementarios):
       * [Figura](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/blob/main/Fase%202/Subfase%202.1%20Gestor/Documentos%20complementarios/Procedimiento%20seleccionar%20CMPv3.jpg): Esquema del procedimiento para seleccionar el CMP.  
       * [Documento](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/blob/main/Fase%202/Subfase%202.1%20Gestor/Documentos%20complementarios/RNF%20evaluaci%C3%B3n%20CMP.pdf): RNF y pruebas que permiten evaluar las capacidades del CMP.  
-      * 
+    * [Proceso 1](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%202/Subfase%202.1%20Gestor/Proceso%201): Instrumentos para el desarrollo del Proceso 1.
+    * [Proceso 4](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%202/Subfase%202.1%20Gestor/Proceso%204): Instrumentos para el desarrollo del Proceso 4.
