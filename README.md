@@ -42,9 +42,11 @@ La ejecución del método de diseño debe ser secuencial como indica el esquema 
   * [Documento](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/blob/main/Documentos%20complementarios/ARF%20Nube%20Privada%20IaaS.pdf): Arquitectura de Referencia Funcional (ARF) de la NP con soporte a la categoría de IaaS.
   * [Documento](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/blob/main/Documentos%20complementarios/RNF%20pruebas%20evaluaci%C3%B3n.pdf): Requerimientos no Funcionales (RNF) y pruebas que permiten evaluar las capacidades de la NP.
 * [Fase 1](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%201): Contiene el procedimiento y los instrumentos para el desarrollo de la Fase 1 del método de diseño: 
-  * Documento: Procedimiento Fase 1.
+  * [Documento](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/blob/main/Fase%201/PROCEDIMIENTO%20FASE%201.pdf): Procedimiento Fase 1.
   * [Documentos complementarios](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%201/Documentos%20complementarios):  
     * [Figura](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/blob/main/Fase%201/Documentos%20complementarios/Procedimiento%20Fase%201.jpg): Esquema general del procedimiento de la Fase 1.  
   * [Proceso 1](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%201/Proceso%201): Documentos complementarios e instrumentos para el desarrollo del Proceso 1.
   * [Proceso 2](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%201/Proceso%202): Instrumentos para el desarrollo del Proceso 2.
-  * [Proceso 3](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%201/Proceso%203): Instrumentos para el desarrollo del Proceso 3.
+  * [Proceso 3](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%201/Proceso%203): Instrumentos para el desarrollo del Proceso 3.  
+  * [Proceso 4](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%201/Proceso%204): Instrumentos para el desarrollo del Proceso 4.
+  * [Proceso 6](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%201/Proceso%206): Instrumentos para el desarrollo del Proceso 6.
