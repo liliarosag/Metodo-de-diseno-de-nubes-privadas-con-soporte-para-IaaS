@@ -45,4 +45,6 @@ La ejecución del método de diseño debe ser secuencial como indica el esquema 
   * Documento: Procedimiento Fase 1.
   * [Documentos complementarios](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%201/Documentos%20complementarios):  
     * [Figura](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/blob/main/Fase%201/Documentos%20complementarios/Procedimiento%20Fase%201.jpg): Esquema general del procedimiento de la Fase 1.  
-  * Proceso 1: documentos complementarios e instrumentos para el desarrollo del Proceso 1.
+  * [Proceso 1](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%201/Proceso%201): Documentos complementarios e instrumentos para el desarrollo del Proceso 1.
+  * [Proceso 2](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%201/Proceso%202): Instrumentos para el desarrollo del Proceso 2.
+  * [Proceso 3](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%201/Proceso%203): Instrumentos para el desarrollo del Proceso 3.
