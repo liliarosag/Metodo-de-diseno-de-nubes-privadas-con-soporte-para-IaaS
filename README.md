@@ -43,5 +43,6 @@ La ejecución del método de diseño debe ser secuencial como indica el esquema 
   * [Documento](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/blob/main/Documentos%20complementarios/RNF%20pruebas%20evaluaci%C3%B3n.pdf): Requerimientos no Funcionales (RNF) y pruebas que permiten evaluar las capacidades de la NP.
 * [Fase 1](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%201): Contiene el procedimiento y los instrumentos para el desarrollo de la Fase 1 del método de diseño: 
   * Documento: Procedimiento Fase 1.
-  * Documentos complementarios:  
-    * Figura: Esquema general del procedimiento de la Fase 1.
+  * [Documentos complementarios](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%201/Documentos%20complementarios):  
+    * [Figura](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/blob/main/Fase%201/Documentos%20complementarios/Procedimiento%20Fase%201.jpg): Esquema general del procedimiento de la Fase 1.  
+  * Proceso 1: documentos complementarios e instrumentos para el desarrollo del Proceso 1.
