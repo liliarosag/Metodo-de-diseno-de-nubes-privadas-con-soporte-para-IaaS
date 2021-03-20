@@ -83,9 +83,12 @@ La ejecución del método de diseño debe ser secuencial como indica el esquema 
     * [Proceso 2](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%202/Subfase%202.4%20Dise%C3%B1o%20de%20los%20nodos%20de%20c%C3%B3mputo/Proceso%202): Instrumentos para el desarrollo del Proceso 2.  
     * [Proceso 3](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%202/Subfase%202.4%20Dise%C3%B1o%20de%20los%20nodos%20de%20c%C3%B3mputo/Proceso%203): Instrumentos para el desarrollo del Proceso 3.  
     * [Proceso 4](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%202/Subfase%202.4%20Dise%C3%B1o%20de%20los%20nodos%20de%20c%C3%B3mputo/Proceso%204): Instrumentos para el desarrollo del Proceso 4.  
-  * Subfase 2.5 Diseño de la DCN: Contiene el procedimiento y los instrumentos para el desarrollo de la Subfase 2.5:  
-    * Documento: Procedimiento de diseño de la DCN.  
+  * [Subfase 2.5 Diseño de la DCN](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%202/Subfase%202.5%20Dise%C3%B1o%20de%20la%20DCN): Contiene el procedimiento y los instrumentos para el desarrollo de la Subfase 2.5:  
+    * [Documento](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/blob/main/Fase%202/Subfase%202.5%20Dise%C3%B1o%20de%20la%20DCN/Proedimiento%20de%20dise%C3%B1o%20de%20la%20DCN.pdf): Procedimiento de diseño de la DCN.  
     * [Documentos complementarios](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%202/Subfase%202.5%20Dise%C3%B1o%20de%20la%20DCN/Documentos%20complementarios):  
       * [Figura](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/blob/main/Fase%202/Subfase%202.5%20Dise%C3%B1o%20de%20la%20DCN/Documentos%20complementarios/Procedimiento%20de%20dise%C3%B1o%20de%20la%20DCNv2.jpg): Esquema del procedimiento de diseño de la DCN.  
       * [Documento](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/blob/main/Fase%202/Subfase%202.5%20Dise%C3%B1o%20de%20la%20DCN/Documentos%20complementarios/RNF%20pruebas%20DCN.pdf): RNF y pruebas que permiten evaluar las capacidades de la DCN.  
-    *  
+    * [Proceso 1](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%202/Subfase%202.5%20Dise%C3%B1o%20de%20la%20DCN/Proceso%201): Instrumentos para el desarrollo del Proceso 1.  
+    * [Proceso 2](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%202/Subfase%202.5%20Dise%C3%B1o%20de%20la%20DCN/Proceso%202): Instrumentos para el desarrollo del Proceso 2.
+    * [Proceso 5](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%202/Subfase%202.5%20Dise%C3%B1o%20de%20la%20DCN/Proceso%205): Instrumentos para el desarrollo del Proceso 5.  
+* 
