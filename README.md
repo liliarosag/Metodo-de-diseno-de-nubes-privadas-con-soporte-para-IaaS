@@ -72,6 +72,8 @@ La ejecución del método de diseño debe ser secuencial como indica el esquema 
        * [Figura](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/blob/main/Fase%202/Subfase%202.3%20Dise%C3%B1o%20del%20SA/Documentos%20complementarios/Procedimiento%20de%20dise%C3%B1o%20del%20SAv5.jpg): Esquema del procedimiento de diseño del SA.  
        * [Documento](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/blob/main/Fase%202/Subfase%202.3%20Dise%C3%B1o%20del%20SA/Documentos%20complementarios/RNF%20pruebas%20SA.pdf): RNF y pruebas que permiten evaluar el SA.  
        * [Documento](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/blob/main/Fase%202/Subfase%202.3%20Dise%C3%B1o%20del%20SA/Documentos%20complementarios/RNF%20pruebas%20sistema%20salvas.pdf): RNF y pruebas que permiten evaluar el sistema de salvas.
-     * [Proceso 1](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%202/Subfase%202.3%20Dise%C3%B1o%20del%20SA/Proceso%201): Instrumentos para el desarrollo del Proceso 1.
+     * [Proceso 1](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%202/Subfase%202.3%20Dise%C3%B1o%20del%20SA/Proceso%201): Instrumentos para el desarrollo del Proceso 1.  
+     * [Proceso 2](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%202/Subfase%202.3%20Dise%C3%B1o%20del%20SA/Proceso%202): Instrumentos para el desarrollo del Proceso 2.
+     * [Proceso 5](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%202/Subfase%202.3%20Dise%C3%B1o%20del%20SA/Proceso%205): Instrumentos para el desarrollo del Proceso 5.  
    *     
     *  
