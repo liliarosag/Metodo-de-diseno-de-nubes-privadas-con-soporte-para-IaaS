@@ -91,4 +91,10 @@ La ejecución del método de diseño debe ser secuencial como indica el esquema 
     * [Proceso 1](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%202/Subfase%202.5%20Dise%C3%B1o%20de%20la%20DCN/Proceso%201): Instrumentos para el desarrollo del Proceso 1.  
     * [Proceso 2](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%202/Subfase%202.5%20Dise%C3%B1o%20de%20la%20DCN/Proceso%202): Instrumentos para el desarrollo del Proceso 2.
     * [Proceso 5](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%202/Subfase%202.5%20Dise%C3%B1o%20de%20la%20DCN/Proceso%205): Instrumentos para el desarrollo del Proceso 5.  
-* 
+* Fase 3: Contiene el procedimiento y los instrumentos para el desarrollo de la Fase 3 del método de diseño:  
+  * [Documento](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/blob/main/Fase%203/Procedimiento%20licitaci%C3%B3n%20del%20proyecto.pdf): Procedimiento de licitación del proyecto.
+  * [Documentos complementarios](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%203/Documentos%20complementarios):  
+    * [Figura](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/blob/main/Fase%203/Documentos%20complementarios/Procedimiento%20para%20licitar%20el%20proyecto%20v2.jpg): Esquema general del procedimiento de la Fase 3.
+  * [Proceso 1](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%203/Proceso%201): Instrumentos para el desarrollo del Proceso 1.
+  * [Proceso 2](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/tree/main/Fase%203/Proceso%202): Instrumentos para el desarrollo del Proceso 2.
+*   
