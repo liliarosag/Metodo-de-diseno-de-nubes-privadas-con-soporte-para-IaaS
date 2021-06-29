@@ -15,8 +15,8 @@ A su vez, se consideraron un conjunto de premisas para la aplicación exitosa de
 ## Esquema general del método de diseño  
 La Figura 1 muestra el esquema general del método de diseño. Consta de cuatro fases, en donde tomando como referencia la filosofía de diseño _top-down_, la primera y última fase poseen un enfoque sistémico. La Fase 1 identifica los objetivos del negocio, las regulaciones, las políticas, los requerimientos técnicos y las restricciones a cumplir durante el desarrollo del proyecto; mientras la Fase 4 despliega, evalúa, entrega y cierra el proyecto.
 
-![Figura 1](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS-para-PyME/blob/main/Documentos%20complementarios/Esquema%20general%20del%20m%C3%A9todo%20de%20dise%C3%B1ov2.jpg)  
-Figura 1. Esquema general del método de diseño de NP con soporte a la categoría de IaaS para PyME  
+![Figura 1](https://github.com/liliarosag/Metodo-de-diseno-de-nubes-privadas-con-soporte-para-IaaS/blob/main/Documentos%20complementarios/Esquema%20general%20del%20m%C3%A9todo%20de%20dise%C3%B1o.jpg)  
+Figura 1. Esquema general del método de diseño de NP con soporte a la categoría de IaaS  
 
 La Fase 2, se encuentra dividida en cinco sub-fases, que se hacen corresponder con el diseño de los subsistemas de la infraestructura de una NP. Las sub-fases son desarrolladas de forma independiente en busca de simplicidad, con un orden de precedencia establecido, aplicando en cada una la filosofía de las cuatro fases del diseño _top-down_. En consecuencia, el procedimiento presenta una organización fundamentalmente secuencial, en el que se definen puntos de retorno para propiciar la corrección de las deficiencias que identifiquen los procesos de pruebas y optimización. La Fase 3 aborda la licitación del equipamiento de nueva adquisición del proyecto a los proveedores, y la selección de la solución que mejor se adecúe al caso de uso en cuestión en función de lo identificado en la Fase 1.
 
